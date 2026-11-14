@@ -1,0 +1,7 @@
+{
+  "modmenu.nameTranslation.blockesp": "BlockESP",
+  "blockesp.config.title": "BlockESP settings",
+  "blockesp.config.enabled": "BlockESP enabled",
+  "blockesp.config.done": "Done",
+  "blockesp.config.reset": "Enable all targets"
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "blockesp",
+  "version": "${version}",
+  "name": "BlockESP",
+  "description": "Configurable ore outlines visible through walls.",
+  "authors": ["BlockESP"],
+  "environment": "client",
+  "entrypoints": {
+    "client": ["io.github.blockesp.BlockEspClient"],
+    "modmenu": ["io.github.blockesp.BlockEspModMenu"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

@@ -1,0 +1,40 @@
+# Gradle
+.gradle/
+build/
+out/
+.kotlin/
+local.properties
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+
+# Local Minecraft data
+run/
+logs/
+config/
+crash-reports/
+saves/
+screenshots/
+
+# Local secrets and signing keys
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+
+# OS files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini

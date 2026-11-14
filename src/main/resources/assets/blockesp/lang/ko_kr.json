@@ -1,0 +1,7 @@
+{
+  "modmenu.nameTranslation.blockesp": "BlockESP",
+  "blockesp.config.title": "BlockESP 설정",
+  "blockesp.config.enabled": "BlockESP 활성화",
+  "blockesp.config.done": "완료",
+  "blockesp.config.reset": "모든 대상 활성화"
+}
